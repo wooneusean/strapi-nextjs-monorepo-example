@@ -1,0 +1,8 @@
+{
+  "name": "strapi-nextjs-monorepo",
+  "workspaces": [
+    "backend",
+    "frontend",
+    "shared"
+  ]
+}
